@@ -2,5 +2,5 @@
 
 ```bash
 yarn release:dryrun
-yarn release && npm publish && git push --tags
+yarn release && npm publish && git push && git push --tags
 ```
