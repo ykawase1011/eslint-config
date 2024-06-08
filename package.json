@@ -2,9 +2,9 @@
   "name": "@ykawase1011/eslint-config",
   "author": "ykawase1011",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/@ykawase1011/eslint-config",
-  "bugs": "https://github.com/@ykawase1011/eslint-config/issues",
-  "version": "1.0.0",
+  "homepage": "https://github.com/ykawase1011/eslint-config",
+  "bugs": "https://github.com/ykawase1011/eslint-config/issues",
+  "version": "1.0.1",
   "description": "ESLint rules for ykawase1011",
   "main": "index.js",
   "keywords": [],
@@ -12,7 +12,7 @@
     "node": ">=18"
   },
   "repository": {
-    "url": "git@github.com:@ykawase1011/eslint-config.git"
+    "url": "git@github.com:ykawase1011/eslint-config.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/",
