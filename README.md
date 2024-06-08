@@ -1,4 +1,4 @@
-# @ykawase1011/eslint-config
+# ykawase1011/eslint-config
 
 ```bash
 yarn release:dryrun
