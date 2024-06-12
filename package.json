@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/ykawase1011/eslint-config",
   "bugs": "https://github.com/ykawase1011/eslint-config/issues",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint rules for ykawase1011",
   "main": "index.js",
   "keywords": [],
@@ -25,7 +25,7 @@
   ],
   "scripts": {
     "lint": "eslint **/*.js",
-    "release": "standard-version",
+    "release": "standard-version && npm publish --access public && git push && git push --tags",
     "release:dryrun": "standard-version --dry-run",
     "format": "prettier --log-level warn -w ./lib ./presets"
   },
