@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/ykawase1011/eslint-config",
   "bugs": "https://github.com/ykawase1011/eslint-config/issues",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "ESLint rules for ykawase1011",
   "main": "index.js",
   "keywords": [],
